@@ -2,7 +2,9 @@
 :root{
     --cor-de-fundo: #fff;
     --branco: #ffff;
-    }
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+}
 body{
     background-color:var(--cor-de-fundo) ;
 }
